@@ -1,0 +1,72 @@
+[
+    {
+        "id": 5971998,
+        "name": "Dhanadeepa Malik",
+        "email": "malik_dhanadeepa@adams.example",
+        "gender": "male",
+        "status": "inactive"
+    },
+    {
+        "id": 5971996,
+        "name": "Smriti Varman",
+        "email": "smriti_varman@oreilly-west.example",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 5971995,
+        "name": "Gauraang Malik",
+        "email": "malik_gauraang@nienow.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 5971994,
+        "name": "Bhargava Khatri",
+        "email": "bhargava_khatri@marks.example",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 5971992,
+        "name": "Abhaya Pothuvaal",
+        "email": "abhaya_pothuvaal@cassin-reilly.example",
+        "gender": "male",
+        "status": "inactive"
+    },
+    {
+        "id": 5971991,
+        "name": "Ajit Pandey",
+        "email": "pandey_ajit@dicki.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 5971990,
+        "name": "Kamalesh Devar",
+        "email": "devar_kamalesh@gulgowski-crona.test",
+        "gender": "male",
+        "status": "inactive"
+    },
+    {
+        "id": 5971989,
+        "name": "Purnima Shukla",
+        "email": "shukla_purnima@kunze.test",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 5971986,
+        "name": "Sen. Lakshmi Deshpande",
+        "email": "sen_lakshmi_deshpande@kunde-cruickshank.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 5914030,
+        "name": "Fr. Purushottam Mukhopadhyay",
+        "email": "fr_purushottam_mukhopadhyay@ondricka.example",
+        "gender": "female",
+        "status": "active"
+    }
+]
